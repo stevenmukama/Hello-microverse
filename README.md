@@ -9,7 +9,7 @@ This project was done with html and css.
 
 ## Getting Started
 
-To get a local copy up and run git clone git clone https://github.com/stevenmukama/Hellomicroversee.git and follow these simple steps
+To get a local copy up and run git clone https://github.com/stevenmukama/Hello-microverse.git and follow these simple steps
 
 ### Open files in visual studio code
 
